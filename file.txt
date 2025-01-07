@@ -1,0 +1,11 @@
+This project will let users add, mark as complete, and delete tasks. 
+It’s a great way to practice working with HTML for structure, 
+CSS for styling, and JavaScript for interactivity.
+
+Project Overview
+Title: Personal Task Tracker
+Features:
+Add tasks to a list.
+Mark tasks as completed.
+Remove tasks from the list.
+Save tasks to localStorage so they persist after refreshing the page.
